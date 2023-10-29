@@ -1,0 +1,770 @@
+Opening date,Country,UF,State,City
+2023-10-17 00:00:00,Brazil,MG,Minas Gerais,Ituiutaba
+2023-10-11 00:00:00,Brazil,SC,Santa Catarina,Videira
+2023-09-20 00:00:00,Brazil,ES,Espírito Santo,Vitória
+2023-09-15 00:00:00,Brazil,PB,Paraíba,João Pessoa
+2023-09-09 00:00:00,Brazil,GO,Goiás,Goiânia
+2023-09-01 00:00:00,Brazil,SP,São Paulo,São Paulo
+2023-08-31 00:00:00,Brazil,RS,Rio Grande do Sul,Taquara
+2023-08-09 00:00:00,Brazil,SP,São Paulo,Cajamar
+2023-08-03 00:00:00,Brazil,RS,Rio Grande do Sul,Canela
+2023-08-02 00:00:00,Brazil,MG,Minas Gerais,Alfenas
+2023-08-01 00:00:00,Brazil,MG,Minas Gerais,Muriaé
+2023-07-25 00:00:00,Brazil,PR,Paraná,Curitiba
+2023-07-18 00:00:00,Brazil,CE,Ceará,Eusébio
+2023-06-30 00:00:00,Brazil,AC,Acre,Rio Branco
+2023-05-31 00:00:00,Brazil,SP,São Paulo,Mogi Mirim
+2023-06-07 00:00:00,Brazil,PI,Piauí,Teresina
+2023-05-31 00:00:00,Brazil,RJ,Rio de Janeiro,Niterói
+2023-05-31 00:00:00,Brazil,SP,São Paulo,Penápolis
+2023-05-31 00:00:00,Brazil,RJ,Rio de Janeiro,Niterói
+2023-05-20 00:00:00,Brazil,SP,São Paulo,Bauru
+2023-05-09 00:00:00,Brazil,SP,São Paulo,Sorocaba
+2023-04-27 00:00:00,Brazil,SP,São Paulo,Catanduva
+2023-04-18 00:00:00,Brazil,SP,São Paulo,Mogi das Cruzes
+2022-12-21 00:00:00,Uruguay,UY,Uruguay,Maldonado
+2022-12-08 00:00:00,Brazil,SP,São Paulo,Campinas
+2022-12-08 00:00:00,Brazil,BA,Bahia,Salvador
+2022-12-03 00:00:00,Brazil,RJ,Rio de Janeiro,Petrópolis
+2022-11-30 00:00:00,Brazil,SP,São Paulo,São José do Rio Preto
+2022-11-30 00:00:00,Brazil,SP,São Paulo,São Vicente
+2022-11-29 00:00:00,Brazil,PR,Paraná,Londrina
+2022-11-29 00:00:00,Brazil,BA,Bahia,Teixeira de Freitas
+2022-11-04 00:00:00,Brazil,RS,Rio Grande do Sul,Passo Fundo
+2022-10-14 00:00:00,Brazil,RS,Rio Grande do Sul,Cachoeira do Sul
+2022-09-29 00:00:00,Brazil,MG,Minas Gerais,Belo Horizonte
+2022-09-23 00:00:00,Brazil,CE,Ceará,Fortaleza
+2022-09-14 00:00:00,Brazil,SC,Santa Catarina,Chapecó
+2022-09-13 00:00:00,Brazil,RS,Rio Grande do Sul,Alegrete
+2022-09-08 00:00:00,Brazil,RS,Rio Grande do Sul,Carazinho
+2022-08-26 00:00:00,Uruguay,UY,Uruguay,Montevidéu
+2022-08-23 00:00:00,Brazil,RS,Rio Grande do Sul,Esteio
+2022-08-19 00:00:00,Brazil,SC,Santa Catarina,São Bento
+2022-08-05 00:00:00,Brazil,RS,Rio Grande do Sul,Santa Rosa
+2022-08-04 00:00:00,Brazil,SC,Santa Catarina,Criciúma
+2022-07-21 00:00:00,Brazil,SP,São Paulo,Baurú
+2022-07-07 00:00:00,Brazil,RS,Rio Grande do Sul,Ijuí
+2022-06-22 00:00:00,Brazil,PR,Paraná,Campo Mourão
+2022-06-21 00:00:00,Brazil,PE,Pernambuco,Recife
+2022-06-10 00:00:00,Brazil,RN,Rio Grande do Norte,Natal
+2022-06-07 00:00:00,Brazil,AL,Alagoas,Maceió
+2022-05-31 00:00:00,Brazil,SP,São Paulo,São Paulo
+2022-05-28 00:00:00,Brazil,MA,Maranhão,São Luís
+2022-05-13 00:00:00,Brazil,SE,Sergipe,Aracajú
+2022-05-06 00:00:00,Brazil,CE,Ceará,Fortaleza
+2022-05-03 00:00:00,Brazil,SP,São Paulo,Assis
+2022-04-30 00:00:00,Brazil,ES,Espírito Santo,Vila Velha
+2022-04-29 00:00:00,Brazil,RS,Rio Grande do Sul,Bento Gonçalves
+2022-04-29 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+2022-04-28 00:00:00,Brazil,PR,Paraná,Pato Branco
+2022-04-27 00:00:00,Brazil,RS,Rio Grande do Sul,Sapucaia do Sul
+2022-04-14 00:00:00,Brazil,ES,Espírito Santo,Vitória
+2022-04-01 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de janeiro
+2022-03-29 00:00:00,Brazil,RJ,Rio de Janeiro,Jacarepaguá
+2022-03-27 00:00:00,Brazil,RS,Rio Grande do Sul,Pelotas
+2021-11-30 00:00:00,Brazil,MT,Mato Grosso,Sinop
+2021-10-23 00:00:00,Brazil,RS,Rio Grande do Sul,Torres
+2021-08-06 00:00:00,Brazil,SP,São Paulo,São Paulo
+2021-07-07 00:00:00,Brazil,PE,Pernambuco,Recife
+2021-06-23 00:00:00,Brazil,GO,Goiás,Catalão
+2021-06-08 00:00:00,Brazil,RN,Rio Grande do Norte,Natal
+2021-06-05 00:00:00,Brazil,SC,Santa Catarina,Florianópolis
+2021-06-04 00:00:00,Brazil,PR,Paraná,Umuarama
+2021-05-31 00:00:00,Brazil,RJ,Rio de Janeiro,Macaé
+2021-05-31 00:00:00,Brazil,SP,São Paulo,Araras
+2021-05-29 00:00:00,Brazil,MS,Mato Grosso do Sul,Campo Grande
+2021-05-25 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de janeiro
+2021-05-05 00:00:00,Brazil,SP,São Paulo,Mogi Guaçu
+2021-05-05 00:00:00,Brazil,RS,Rio Grande do Sul,Farroupilha
+2021-05-04 00:00:00,Brazil,RJ,Rio de Janeiro,Maricá
+2021-05-03 00:00:00,Brazil,PA,Pará,Belém
+2021-04-30 00:00:00,Brazil,SC,Santa Catarina,Rio do Sul
+2021-04-29 00:00:00,Brazil,RS,Rio Grande do Sul,Bagé
+2021-04-29 00:00:00,Brazil,AP,Amapá,Macapá
+2021-04-28 00:00:00,Brazil,SP,São Paulo,Caraguatatuba
+2021-04-27 00:00:00,Brazil,SP,São Paulo,São Paulo
+2021-04-27 00:00:00,Brazil,PR,Paraná,Curitiba
+2021-04-27 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2021-04-26 00:00:00,Brazil,SP,São Paulo,São Paulo
+2021-04-20 00:00:00,Brazil,SP,São Paulo,São Paulo
+2021-04-18 00:00:00,Brazil,SP,São Paulo,São Paulo
+2021-04-18 00:00:00,Brazil,SP,São Paulo,São Paulo
+2021-04-15 00:00:00,Brazil,RS,Rio Grande do Sul,Garibaldi
+2021-04-13 00:00:00,Brazil,CE,Ceará,Juazeiro do Norte
+2021-04-10 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2021-04-05 00:00:00,Brazil,RO,Rondônia,Cacoal
+2021-03-03 00:00:00,Brazil,SP,São Paulo,Ribeirão Preto
+2020-11-17 00:00:00,Brazil,SP,São Paulo,São Paulo
+2020-10-20 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2020-09-29 00:00:00,Brazil,SP,São Paulo,Guarulhos
+2020-09-22 00:00:00,Brazil,MT,Mato Grosso,Sorriso
+2020-08-27 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2020-08-20 00:00:00,Brazil,PE,Pernambuco,Recife
+2020-08-11 00:00:00,Brazil,MT,Mato Grosso,Tangará da Serra
+2020-08-08 00:00:00,Brazil,SP,São Paulo,Piracicaba
+2020-08-04 00:00:00,Brazil,GO,Goiás,Jataí
+2020-08-01 00:00:00,Brazil,BA,Bahia,Lauro de Freitas
+2020-03-17 00:00:00,Brazil,BA,Bahia,Lauro de Freitas
+2019-12-18 00:00:00,Argentina,AR,Argentina,Buenos Aires
+2019-12-17 00:00:00,Argentina,AR,Argentina,Buenos Aires
+2019-12-14 00:00:00,Argentina,AR,Argentina,Córdoba
+2019-12-13 00:00:00,Brazil,MS,Mato Grosso do Sul,Três Lagoas
+2019-12-13 00:00:00,Brazil,MG,Minas Gerais,Belo Horizonte
+2019-12-12 00:00:00,Uruguay,UY,Uruguay,Montevidéu
+2019-12-12 00:00:00,Argentina,AR,Argentina,Córdoba
+2019-12-12 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+2019-12-11 00:00:00,Brazil,SP,São Paulo,Santo Ándré
+2019-12-11 00:00:00,Uruguay,UY,Uruguay,Montevidéu
+2019-12-10 00:00:00,Brazil,RS,Rio Grande do Sul,Santo Ângelo
+2019-12-03 00:00:00,Brazil,SP,São Paulo,São Paulo
+2019-11-29 00:00:00,Brazil,RS,Rio Grande do Sul,Tramandaí
+2019-11-29 00:00:00,Brazil,PE,Pernambuco,Recife
+2019-11-28 00:00:00,Brazil,DF,Distrito Federal,Brasília
+2019-11-26 00:00:00,Brazil,RJ,Rio de Janeiro,Nova Friburgo
+2019-11-21 00:00:00,Brazil,SP,São Paulo,São Paulo
+2019-11-21 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+2019-11-14 00:00:00,Brazil,SP,São Paulo,Sumaré
+2019-11-05 00:00:00,Brazil,MG,Minas Gerais,Sete Lagoas
+2019-11-01 00:00:00,Brazil,RJ,Rio de Janeiro,Volta Redonda
+2019-10-31 00:00:00,Brazil,SC,Santa Catarina,Florianópolis
+2019-10-24 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2019-10-17 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+2019-10-17 00:00:00,Brazil,MT,Mato Grosso,Cuiabá
+2019-10-10 00:00:00,Brazil,PR,Paraná,Curitiba
+2019-10-08 00:00:00,Brazil,SP,São Paulo,São Paulo
+2019-09-19 00:00:00,Brazil,SE,Sergipe,Aracaju
+2019-08-29 00:00:00,Brazil,ES,Espírito Santo,Cachoeiro De Itapemirim
+2019-08-21 00:00:00,Brazil,MA,Maranhão,São José De Ribamar
+2019-08-15 00:00:00,Brazil,SP,São Paulo,São Paulo
+2019-08-01 00:00:00,Brazil,RS,Rio Grande do Sul,Caxias do Sul
+2019-08-01 00:00:00,Brazil,SP,São Paulo,São Paulo
+2019-07-31 00:00:00,Brazil,SP,São Paulo,Ourinhos
+2019-07-25 00:00:00,Brazil,RS,Rio Grande do Sul,Cruz Alta
+2019-06-05 00:00:00,Brazil,PR,Paraná,Curitiba
+2019-06-05 00:00:00,Brazil,PR,Paraná,Maringá
+2019-06-04 00:00:00,Brazil,CE,Ceará,Sobral
+2019-05-31 00:00:00,Brazil,GO,Goiás,Goiânia
+2019-05-30 00:00:00,Brazil,SP,São Paulo,São Paulo
+2019-05-30 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2019-05-30 00:00:00,Brazil,SP,São Paulo,Ribeirão Preto
+2019-05-07 00:00:00,Brazil,TO,Tocantins,Palmas
+2019-05-03 00:00:00,Brazil,SP,São Paulo,São Paulo
+2019-05-02 00:00:00,Brazil,SP,São Paulo,São Paulo
+2019-04-25 00:00:00,Brazil,SP,São Paulo,Jaú
+2019-04-18 00:00:00,Brazil,RO,Rondônia,Porto Velho
+2019-04-16 00:00:00,Brazil,SP,São Paulo,Praia Grande
+2019-04-11 00:00:00,Brazil,DF,Distrito Federal,Brasília
+2019-03-27 00:00:00,Brazil,ES,Espírito Santo,Vila Velha
+2019-03-21 00:00:00,Brazil,RS,Rio Grande do Sul,Passo Fundo
+2019-02-28 00:00:00,Brazil,PE,Pernambuco,Recife
+2019-02-27 00:00:00,Brazil,PA,Pará,Belém
+2018-12-18 00:00:00,Uruguay,UY,Uruguay,Montevidéu
+2018-12-14 00:00:00,Brazil,PA,Pará,Santarém
+2018-12-13 00:00:00,Brazil,SC,Santa Catarina,Florianópolis
+2018-12-07 00:00:00,Brazil,DF,Distrito Federal,Brasília
+2018-12-07 00:00:00,Brazil,MG,Minas Gerais,Poços de Caldas
+2018-12-06 00:00:00,Brazil,MG,Minas Gerais,Barbacena
+2018-12-05 00:00:00,Brazil,MT,Mato Grosso,Rondonópolis
+2018-11-23 00:00:00,Uruguay,UY,Uruguay,Punta del Este
+2018-11-19 00:00:00,Brazil,SP,São Paulo,Praia Grande
+2018-11-19 00:00:00,Brazil,SP,São Paulo,Praia Grande
+2018-11-13 00:00:00,Brazil,PR,Paraná,Paranavaí
+2018-11-08 00:00:00,Brazil,RS,Rio Grande do Sul,Passo Fundo
+2018-10-30 00:00:00,Brazil,SP,São Paulo,Itu
+2018-10-23 00:00:00,Brazil,MT,Mato Grosso,Cuiabá
+2018-10-23 00:00:00,Brazil,MT,Mato Grosso,Cuiabá
+2018-10-23 00:00:00,Brazil,MT,Mato Grosso,Cuiabá
+2018-10-18 00:00:00,Brazil,PR,Paraná,Ponta Grossa
+2018-10-05 00:00:00,Brazil,AM,Amazonas,Manaus
+2018-10-04 00:00:00,Brazil,SP,São Paulo,Itapetininga
+2018-09-27 00:00:00,Brazil,SP,São Paulo,São Paulo
+2018-09-14 00:00:00,Brazil,MG,Minas Gerais,Uberaba
+2018-09-13 00:00:00,Brazil,SP,São Paulo,São Paulo
+2018-09-13 00:00:00,Brazil,MA,Maranhão,Imperatriz
+2018-09-05 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2018-09-04 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+2018-08-21 00:00:00,Brazil,MG,Minas Gerais,Divinópolis
+2018-08-16 00:00:00,Brazil,PB,Paraíba,Campina Grande
+2018-08-16 00:00:00,Brazil,SC,Santa Catarina,Blumenau
+2018-08-13 00:00:00,Brazil,SE,Sergipe,Aracaju
+2018-08-09 00:00:00,Brazil,MG,Minas Gerais,Belo Horizonte
+2018-07-31 00:00:00,Brazil,AM,Amazonas,Manaus
+2018-07-12 00:00:00,Brazil,SC,Santa Catarina,Joinville
+2018-07-05 00:00:00,Brazil,DF,Distrito Federal,Brasília
+2018-06-08 00:00:00,Brazil,SP,São Paulo,São Paulo
+2018-06-07 00:00:00,Brazil,SP,São Paulo,Suzano
+2018-05-10 00:00:00,Brazil,AM,Amazonas,Manaus
+2018-05-08 00:00:00,Brazil,PE,Pernambuco,Olinda
+2018-05-07 00:00:00,Uruguay,UY,Uruguay,Montevidéu
+2018-05-05 00:00:00,Uruguay,UY,Uruguay,Rivera
+2018-05-03 00:00:00,Brazil,MS,Mato Grosso do Sul,Dourados
+2018-05-03 00:00:00,Brazil,SP,São Paulo,Valinhos
+2018-05-02 00:00:00,Brazil,PE,Pernambuco,Camaragibe
+2018-04-26 00:00:00,Brazil,RO,Rondônia,Porto Velho
+2018-04-26 00:00:00,Brazil,PR,Paraná,Guarapuava
+2018-04-26 00:00:00,Brazil,BA,Bahia,Vitória da Conquista
+2018-04-26 00:00:00,Brazil,DF,Distrito Federal,Brasília
+2018-04-25 00:00:00,Brazil,SP,São Paulo,São Caetano
+2018-04-20 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2018-04-19 00:00:00,Brazil,SC,Santa Catarina,Florianópolis
+2018-04-12 00:00:00,Brazil,GO,Goiás,Goiânia
+2018-04-12 00:00:00,Brazil,BA,Bahia,Salvador
+2018-03-29 00:00:00,Brazil,PI,Piauí,Parnaíba
+2018-03-22 00:00:00,Brazil,GO,Goiás,Goiânia
+2018-03-15 00:00:00,Brazil,MG,Minas Gerais,Varginha
+2018-03-08 00:00:00,Brazil,SC,Santa Catarina,Chapecó
+2017-12-14 00:00:00,Brazil,PA,Pará,Ananindeua
+2017-12-08 00:00:00,Uruguay,UY,Uruguay,Montevidéu
+2017-12-01 00:00:00,Brazil,PR,Paraná,Curitiba
+2017-11-29 00:00:00,Brazil,DF,Distrito Federal,Brasília
+2017-11-24 00:00:00,Brazil,RS,Rio Grande do Sul,Canoas
+2017-11-24 00:00:00,Uruguay,UY,Uruguay,Montevidéu
+2017-11-24 00:00:00,Brazil,RS,Rio Grande do Sul,Canoas
+2017-11-24 00:00:00,Brazil,RS,Rio Grande do Sul,Canoas
+2017-11-24 00:00:00,Brazil,SP,São Paulo,Guarujá
+2017-11-23 00:00:00,Brazil,SP,São Paulo,São Paulo
+2017-11-23 00:00:00,Brazil,SP,São Paulo,Guarulhos
+2017-11-17 00:00:00,Brazil,SP,São Paulo,Taubaté
+2017-11-16 00:00:00,Brazil,SP,São Paulo,São Paulo
+2017-11-15 00:00:00,Brazil,PA,Pará,Belém
+2017-11-07 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+2017-10-26 00:00:00,Brazil,SP,São Paulo,São Paulo
+2017-10-19 00:00:00,Brazil,MG,Minas Gerais,Belo Horizonte
+2017-10-19 00:00:00,Brazil,PR,Paraná,Maringá
+2017-10-06 00:00:00,Brazil,MG,Minas Gerais,Belo Horizonte
+2017-10-06 00:00:00,Brazil,SP,São Paulo,Indaiatuba
+2017-10-05 00:00:00,Brazil,SC,Santa Catarina,Itajaí
+2017-10-04 00:00:00,Brazil,CE,Ceará,Fortaleza
+2017-09-29 00:00:00,Brazil,SP,São Paulo,São Paulo
+2017-09-28 00:00:00,Brazil,MA,Maranhão,São Luís
+2017-09-28 00:00:00,Brazil,MG,Minas Gerais,Belo Horizonte
+2017-09-28 00:00:00,Brazil,RS,Rio Grande do Sul,Santa Maria
+2017-09-27 00:00:00,Brazil,SP,São Paulo,São Paulo
+2017-09-20 00:00:00,Brazil,RS,Rio Grande do Sul,Gramado
+2017-09-07 00:00:00,Uruguay,UY,Uruguay,Montevidéu
+2017-09-06 00:00:00,Brazil,PR,Paraná,Londrina
+2017-09-01 00:00:00,Brazil,RS,Rio Grande do Sul,Santa Maria
+2017-08-31 00:00:00,Brazil,RS,Rio Grande do Sul,São Leopoldo
+2017-08-29 00:00:00,Brazil,SP,São Paulo,São Paulo
+2017-08-25 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2017-08-24 00:00:00,Brazil,SP,São Paulo,Santos
+2017-08-03 00:00:00,Brazil,PA,Pará,Belém
+2017-07-27 00:00:00,Brazil,SP,São Paulo,São Paulo
+2017-07-14 00:00:00,Brazil,RS,Rio Grande do Sul,Santa Cruz do Sul
+2017-07-05 00:00:00,Brazil,AL,Alagoas,Maceió
+2017-06-29 00:00:00,Brazil,PI,Piauí,Teresina
+2017-06-29 00:00:00,Brazil,SP,São Paulo,São Paulo
+2017-06-22 00:00:00,Brazil,MG,Minas Gerais,Belo Horizonte
+2017-06-21 00:00:00,Brazil,RN,Rio Grande do Norte,Natal
+2017-06-16 00:00:00,Brazil,BA,Bahia,Itabuna
+2017-06-09 00:00:00,Brazil,RS,Rio Grande do Sul,Guaíba
+2017-06-09 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+2017-06-08 00:00:00,Brazil,SE,Sergipe,Aracaju
+2017-06-08 00:00:00,Brazil,MG,Minas Gerais,Juiz de Fora
+2017-06-06 00:00:00,Brazil,MG,Minas Gerais,Juiz de Fora
+2017-06-02 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2017-05-25 00:00:00,Brazil,SC,Santa Catarina,Jaraguá do Sul
+2017-05-18 00:00:00,Brazil,PR,Paraná,Curitiba
+2017-05-05 00:00:00,Brazil,RJ,Rio de Janeiro,Nova Iguaçu
+2017-05-04 00:00:00,Brazil,BA,Bahia,Salvador
+2017-04-27 00:00:00,Brazil,BA,Bahia,Salvador
+2017-04-27 00:00:00,Brazil,RS,Rio Grande do Sul,Passo Fundo 
+2017-04-25 00:00:00,Brazil,SP,São Paulo,Itaquaquecetuba
+2017-04-20 00:00:00,Brazil,PI,Piauí,Teresina
+2017-04-12 00:00:00,Brazil,SP,São Paulo,Barueri
+2017-04-06 00:00:00,Brazil,SP,São Paulo,Barueri
+2017-04-06 00:00:00,Brazil,MG,Minas Gerais,Uberlândia
+2017-03-30 00:00:00,Brazil,RS,Rio Grande do Sul,Caxias do Sul
+2017-03-30 00:00:00,Brazil,SC,Santa Catarina,São José
+2017-03-29 00:00:00,Brazil,ES,Espírito Santo,Linhares
+2017-03-23 00:00:00,Brazil,MG,Minas Gerais,Governador Valadares
+2017-03-23 00:00:00,Brazil,PA,Pará,Parauapebas
+2017-03-16 00:00:00,Brazil,SC,Santa Catarina,Joinville
+2017-03-16 00:00:00,Brazil,SP,São Paulo,São Paulo
+2017-03-09 00:00:00,Brazil,SC,Santa Catarina,Criciúma
+2017-03-03 00:00:00,Brazil,SP,São Paulo,São Bernardo do Campo
+2016-12-13 00:00:00,Brazil,PB,Paraíba,João Pessoa
+2016-12-08 00:00:00,Brazil,SP,São Paulo,Campinas
+2016-11-28 00:00:00,Brazil,CE,Ceará,Fortaleza
+2016-11-24 00:00:00,Brazil,PR,Paraná,Maringá
+2016-11-24 00:00:00,Brazil,PR,Paraná,São José dos Pinhais
+2016-11-22 00:00:00,Brazil,GO,Goiás,Goiânia
+2016-11-22 00:00:00,Brazil,SP,São Paulo,Bragança Paulista
+2016-11-16 00:00:00,Brazil,DF,Distrito Federal,Brasília
+2016-11-16 00:00:00,Brazil,MG,Minas Gerais,Belo Horizonte
+2016-11-10 00:00:00,Brazil,PE,Pernambuco,Recife
+2016-11-07 00:00:00,Brazil,SP,São Paulo,São Paulo
+2016-10-31 00:00:00,Brazil,RJ,Rio de Janeiro,Teresópolis
+2016-10-27 00:00:00,Brazil,SP,São Paulo,Carapicuíba
+2016-10-26 00:00:00,Brazil,CE,Ceará,Fortaleza
+2016-10-20 00:00:00,Brazil,PA,Pará,Belém
+2016-10-20 00:00:00,Brazil,MG,Minas Gerais,Belo Horizonte
+2016-10-18 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2016-10-13 00:00:00,Brazil,SC,Santa Catarina,Balneário Camboriú
+2016-10-11 00:00:00,Brazil,BA,Bahia,Salvador
+2016-10-11 00:00:00,Brazil,SP,São Paulo,São Paulo
+2016-10-11 00:00:00,Brazil,SP,São Paulo,São Paulo
+2016-10-10 00:00:00,Brazil,DF,Distrito Federal,Brasília
+2016-10-10 00:00:00,Brazil,DF,Distrito Federal,Brasília
+2016-10-07 00:00:00,Brazil,PB,Paraíba,Campina Grande
+2016-10-04 00:00:00,Brazil,SP,São Paulo,Campinas
+2016-10-01 00:00:00,Brazil,SP,São Paulo,São Bernardo do Campo
+2016-09-30 00:00:00,Brazil,RS,Rio Grande do Sul,Capão da Canoa
+2016-09-29 00:00:00,Brazil,SP,São Paulo,Santo André
+2016-09-08 00:00:00,Brazil,RS,Rio Grande do Sul,Bento Gonçalves
+2016-09-06 00:00:00,Brazil,ES,Espírito Santo,Vila Velha
+2016-08-13 00:00:00,Brazil,SP,São Paulo,São Paulo
+2016-08-10 00:00:00,Brazil,MA,Maranhão,São Luís
+2016-08-04 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2016-07-29 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2016-07-12 00:00:00,Brazil,MG,Minas Gerais,Juiz de Fora
+2016-07-07 00:00:00,Brazil,RN,Rio Grande do Norte,Natal
+2016-06-10 00:00:00,Brazil,PR,Paraná,Foz do Iguaçu
+2016-06-02 00:00:00,Brazil,SP,São Paulo,Sorocaba
+2016-06-02 00:00:00,Brazil,SP,São Paulo,Itu
+2016-05-25 00:00:00,Brazil,PR,Paraná,Curitiba
+2016-05-25 00:00:00,Brazil,SP,São Paulo,Osasco
+2016-05-19 00:00:00,Brazil,SP,São Paulo,Campinas
+2016-05-19 00:00:00,Brazil,MG,Minas Gerais,Contagem
+2016-05-18 00:00:00,Brazil,SP,São Paulo,Campinas
+2016-05-05 00:00:00,Brazil,MG,Minas Gerais,Belo Horizonte
+2016-05-05 00:00:00,Brazil,RS,Rio Grande do Sul,Canoas
+2016-05-04 00:00:00,Brazil,AL,Alagoas,Maceió
+2016-04-28 00:00:00,Brazil,RJ,Rio de Janeiro,Nova Iguaçu
+2016-04-28 00:00:00,Brazil,SP,São Paulo,São Paulo
+2016-04-27 00:00:00,Brazil,RJ,Rio de Janeiro,Nova Iguaçu
+2016-04-27 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+2016-04-26 00:00:00,Brazil,GO,Goiás,Goiânia
+2016-04-26 00:00:00,Brazil,PE,Pernambuco,Paulista
+2016-04-20 00:00:00,Brazil,SP,São Paulo,São Paulo
+2016-04-16 00:00:00,Brazil,SC,Santa Catarina,Criciúma
+2016-04-12 00:00:00,Brazil,MG,Minas Gerais,Varginha
+2016-04-07 00:00:00,Brazil,SP,São Paulo,Piracicaba
+2016-03-30 00:00:00,Brazil,SP,São Paulo,Mogi das Cruzes
+2016-03-30 00:00:00,Brazil,SP,São Paulo,São Paulo
+2016-03-24 00:00:00,Brazil,SP,São Paulo,São Paulo
+2016-03-23 00:00:00,Brazil,MA,Maranhão,São Luís
+2016-03-22 00:00:00,Brazil,BA,Bahia,Juazeiro
+2016-03-16 00:00:00,Brazil,MG,Minas Gerais,Belo Horizonte
+2016-03-10 00:00:00,Brazil,SC,Santa Catarina,Florianópolis
+2015-12-10 00:00:00,Brazil,RS,Rio Grande do Sul,Uruguaiana
+2015-12-10 00:00:00,Brazil,SC,Santa Catarina,Joinville
+2015-12-03 00:00:00,Brazil,SP,São Paulo,Jundiaí
+2015-11-27 00:00:00,Brazil,GO,Goiás,Valparaíso de Goiás
+2015-11-27 00:00:00,Brazil,SP,São Paulo,Barretos
+2015-11-26 00:00:00,Brazil,PE,Pernambuco,Recife
+2015-11-26 00:00:00,Brazil,SP,São Paulo,Guaratinguetá
+2015-11-26 00:00:00,Brazil,RJ,Rio de Janeiro,Angra dos Reis
+2015-11-26 00:00:00,Brazil,BA,Bahia,Camaçari
+2015-11-18 00:00:00,Brazil,PI,Piauí,Teresina
+2015-11-17 00:00:00,Brazil,MT,Mato Grosso,Várzea Grande
+2015-11-14 00:00:00,Brazil,SP,São Paulo,São Paulo
+2015-11-14 00:00:00,Brazil,SP,São Paulo,Lorena
+2015-11-13 00:00:00,Brazil,SP,São Paulo,Taboão da Serra
+2015-11-12 00:00:00,Brazil,SP,São Paulo,São José dos Campos
+2015-11-11 00:00:00,Brazil,SP,São Paulo,São Paulo
+2015-11-06 00:00:00,Brazil,BA,Bahia,Salvador
+2015-11-06 00:00:00,Brazil,SP,São Paulo,São Bernardo do Campo
+2015-11-05 00:00:00,Brazil,PE,Pernambuco,Recife
+2015-11-05 00:00:00,Brazil,RS,Rio Grande do Sul,Rio Grande
+2015-11-05 00:00:00,Brazil,SP,São Paulo,São Paulo
+2015-10-30 00:00:00,Brazil,SC,Santa Catarina,São José
+2015-10-15 00:00:00,Brazil,SC,Santa Catarina,Balneário Camboriú
+2015-10-08 00:00:00,Brazil,SP,São Paulo,São Paulo
+2015-09-29 00:00:00,Brazil,PI,Piauí,Teresina
+2015-09-24 00:00:00,Brazil,MG,Minas Gerais,Ipatinga
+2015-08-27 00:00:00,Brazil,PA,Pará,Belém
+2015-08-19 00:00:00,Brazil,MG,Minas Gerais,Uberaba
+2015-08-07 00:00:00,Brazil,MT,Mato Grosso,Cuiabá
+2015-07-14 00:00:00,Brazil,CE,Ceará,Fortaleza
+2015-06-30 00:00:00,Brazil,SP,São Paulo,Araraquara
+2015-06-09 00:00:00,Brazil,SP,São Paulo,Santo André
+2015-06-03 00:00:00,Brazil,PE,Pernambuco,Recife
+2015-06-03 00:00:00,Brazil,RS,Rio Grande do Sul,Novo Hamburgo
+2015-05-20 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2015-05-07 00:00:00,Brazil,SP,São Paulo,Santo André
+2015-05-05 00:00:00,Brazil,SC,Santa Catarina,Palhoça
+2015-04-30 00:00:00,Brazil,SP,São Paulo,São José do Rio Preto
+2015-04-29 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2015-04-29 00:00:00,Brazil,SP,São Paulo,Santa Bárbara D'Oeste
+2015-04-29 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2015-04-29 00:00:00,Brazil,SP,São Paulo,Taubaté
+2015-04-23 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+2015-04-18 00:00:00,Brazil,RJ,Rio de Janeiro,Niterói
+2015-04-16 00:00:00,Brazil,SP,São Paulo,Guarulhos
+2015-04-16 00:00:00,Brazil,SP,São Paulo,Guarulhos
+2015-04-16 00:00:00,Brazil,SC,Santa Catarina,Jaraguá do Sul
+2015-04-02 00:00:00,Brazil,CE,Ceará,Fortaleza
+2015-02-26 00:00:00,Brazil,RJ,Rio de Janeiro,Itaboraí
+2014-12-11 00:00:00,Brazil,AM,Amazonas,Manaus
+2014-12-05 00:00:00,Brazil,AL,Alagoas,Arapiraca
+2014-12-02 00:00:00,Brazil,RR,Roraima,Boa Vista
+2014-11-30 00:00:00,Brazil,PB,Paraíba,João Pessoa
+2014-11-28 00:00:00,Brazil,AM,Amazonas,Manaus
+2014-11-28 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2014-11-28 00:00:00,Brazil,SP,São Paulo,São José dos Campos
+2014-11-27 00:00:00,Brazil,AM,Amazonas,Manaus
+2014-11-27 00:00:00,Brazil,SP,São Paulo,São Paulo
+2014-11-26 00:00:00,Brazil,DF,Distrito Federal,Brasília
+2014-11-25 00:00:00,Brazil,RR,Roraima,Boa Vista
+2014-11-20 00:00:00,Brazil,SC,Santa Catarina,Lages
+2014-11-20 00:00:00,Brazil,GO,Goiás,Rio Verde
+2014-11-19 00:00:00,Brazil,SP,São Paulo,São Paulo
+2014-11-11 00:00:00,Brazil,SP,São Paulo,Araçatuba
+2014-11-04 00:00:00,Brazil,MG,Minas Gerais,Belo Horizonte
+2014-10-29 00:00:00,Brazil,CE,Ceará,Fortaleza
+2014-10-29 00:00:00,Brazil,CE,Ceará,Fortaleza
+2014-10-16 00:00:00,Brazil,SP,São Paulo,Rio Claro
+2014-09-26 00:00:00,Brazil,SC,Santa Catarina,Florianópolis
+2014-09-24 00:00:00,Brazil,MG,Minas Gerais,Belo Horizonte
+2014-09-10 00:00:00,Brazil,SC,Santa Catarina,Itajaí
+2014-08-29 00:00:00,Brazil,RS,Rio Grande do Sul,Lajeado
+2014-08-25 00:00:00,Brazil,ES,Espírito Santo,Vila Velha
+2014-08-25 00:00:00,Brazil,ES,Espírito Santo,Vila Velha
+2014-07-26 00:00:00,Brazil,DF,Distrito Federal,Brasília
+2014-07-17 00:00:00,Brazil,RS,Rio Grande do Sul,Pelotas
+2014-07-04 00:00:00,Brazil,SP,São Paulo,São Paulo
+2014-07-03 00:00:00,Brazil,SP,São Paulo,São Carlos
+2014-06-26 00:00:00,Brazil,SP,São Paulo,Mogi das Cruzes
+2014-06-26 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2014-06-26 00:00:00,Brazil,RS,Rio Grande do Sul,Caxias do Sul
+2014-06-24 00:00:00,Brazil,SC,Santa Catarina,Florianópolis
+2014-06-20 00:00:00,Brazil,SP,São Paulo,São Paulo
+2014-05-29 00:00:00,Brazil,SP,São Paulo,Botucatu
+2014-05-17 00:00:00,Brazil,MS,Mato Grosso do Sul,Campo Grande
+2014-05-10 00:00:00,Brazil,MG,Minas Gerais,Belo Horizonte
+2014-05-09 00:00:00,Brazil,GO,Goiás,Goiânia
+2014-05-08 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+2014-05-06 00:00:00,Brazil,MA,Maranhão,São Luís
+2014-05-06 00:00:00,Brazil,ES,Espírito Santo,Cariacica
+2014-04-29 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2014-04-29 00:00:00,Brazil,SP,São Paulo,Ribeirão Preto
+2014-04-26 00:00:00,Brazil,SP,São Paulo,São José do Rio Preto
+2014-04-26 00:00:00,Brazil,SP,São Paulo,São José do Rio Preto
+2014-04-26 00:00:00,Brazil,SP,São Paulo,São José do Rio Preto
+2014-04-25 00:00:00,Brazil,SP,São Paulo,São Paulo
+2014-04-19 00:00:00,Brazil,SP,São Paulo,Santo André
+2014-04-19 00:00:00,Brazil,MG,Minas Gerais,Contagem
+2014-04-17 00:00:00,Brazil,RN,Rio Grande do Norte,Mossoró
+2014-04-10 00:00:00,Brazil,MG,Minas Gerais,Betim
+2014-03-28 00:00:00,Brazil,ES,Espírito Santo,Serra
+2014-03-08 00:00:00,Brazil,SP,São Paulo,São Paulo
+2014-03-07 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2013-12-18 00:00:00,Brazil,SP,São Paulo,São Paulo
+2013-12-10 00:00:00,Brazil,PR,Paraná,Curitiba
+2013-12-06 00:00:00,Brazil,SP,São Paulo,Sorocaba
+2013-12-05 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2013-12-04 00:00:00,Brazil,SP,São Paulo,Ribeirão Preto
+2013-11-30 00:00:00,Brazil,SP,São Paulo,Pindamonhangaba
+2013-11-28 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2013-11-28 00:00:00,Brazil,SP,São Paulo,São Bernardo do Campo
+2013-11-27 00:00:00,Brazil,RN,Rio Grande do Norte,Natal
+2013-11-26 00:00:00,Brazil,CE,Ceará,Fortaleza
+2013-11-26 00:00:00,Brazil,MG,Minas Gerais,Contagem
+2013-11-26 00:00:00,Brazil,AL,Alagoas,Maceió
+2013-11-26 00:00:00,Brazil,MG,Minas Gerais,Contagem
+2013-11-25 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+2013-11-22 00:00:00,Brazil,RS,Rio Grande do Sul,Gravataí
+2013-11-21 00:00:00,Brazil,SP,São Paulo,Sorocaba
+2013-11-16 00:00:00,Brazil,DF,Distrito Federal,Brasília
+2013-11-14 00:00:00,Brazil,SP,São Paulo,Sorocaba
+2013-11-14 00:00:00,Brazil,SP,São Paulo,São Bernardo do Campo
+2013-11-12 00:00:00,Brazil,CE,Ceará,Fortaleza
+2013-11-07 00:00:00,Brazil,AL,Alagoas,Maceió
+2013-10-31 00:00:00,Brazil,MA,Maranhão,São Luís
+2013-10-31 00:00:00,Brazil,SP,São Paulo,São Paulo
+2013-10-30 00:00:00,Brazil,GO,Goiás,Goiânia
+2013-10-22 00:00:00,Brazil,SP,São Paulo,São Bernardo do Campo
+2013-10-17 00:00:00,Brazil,SP,São Paulo,São José dos Campos
+2013-10-03 00:00:00,Brazil,RS,Rio Grande do Sul,Pelotas
+2013-09-27 00:00:00,Brazil,SP,São Paulo,Sorocaba
+2013-09-25 00:00:00,Brazil,MG,Minas Gerais,Belo Horizonte
+2013-09-13 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+2013-09-12 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+2013-09-05 00:00:00,Brazil,SP,São Paulo,São Paulo
+2013-08-29 00:00:00,Brazil,SP,São Paulo,São Paulo
+2013-08-22 00:00:00,Brazil,SP,São Paulo,São Paulo
+2013-08-15 00:00:00,Brazil,MS,Mato Grosso do Sul,Campo Grande
+2013-08-15 00:00:00,Brazil,SP,São Paulo,Barueri
+2013-08-08 00:00:00,Brazil,AM,Amazonas,Manaus
+2013-08-08 00:00:00,Brazil,SP,São Paulo,Campinas
+2013-08-01 00:00:00,Brazil,DF,Distrito Federal,Brasília
+2013-07-31 00:00:00,Brazil,SP,São Paulo,São Paulo
+2013-07-30 00:00:00,Brazil,AP,Amapá,Macapá
+2013-07-23 00:00:00,Brazil,MG,Minas Gerais,Betim
+2013-06-06 00:00:00,Brazil,SP,São Paulo,Presidente Prudente
+2013-06-06 00:00:00,Brazil,PI,Piauí,Teresina
+2013-05-07 00:00:00,Brazil,PA,Pará,Marabá
+2013-05-03 00:00:00,Brazil,PR,Paraná,Londrina
+2013-05-03 00:00:00,Brazil,MG,Minas Gerais,Pouso Alegre
+2013-04-18 00:00:00,Brazil,SP,São Paulo,São Paulo
+2013-03-19 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+2013-01-10 00:00:00,Brazil,SP,São Paulo,Santos
+2012-12-15 00:00:00,Brazil,SP,São Paulo,Bauru
+2012-12-13 00:00:00,Brazil,SP,São Paulo,Mauá
+2012-12-06 00:00:00,Brazil,ES,Espírito Santo,Vitória
+2012-11-29 00:00:00,Brazil,MT,Mato Grosso,Cuiabá
+2012-11-29 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2012-11-28 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2012-11-28 00:00:00,Brazil,SP,São Paulo,Campinas
+2012-11-14 00:00:00,Brazil,PR,Paraná,Curitiba
+2012-11-14 00:00:00,Brazil,GO,Goiás,Goiânia
+2012-11-13 00:00:00,Brazil,SP,São Paulo,São Bernardo do Campo
+2012-10-31 00:00:00,Brazil,SP,São Paulo,São José dos Campos
+2012-10-30 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2012-10-30 00:00:00,Brazil,PE,Pernambuco,Recife
+2012-10-27 00:00:00,Brazil,SC,Santa Catarina,São José
+2012-10-25 00:00:00,Brazil,SP,São Paulo,Santo André
+2012-10-23 00:00:00,Brazil,MG,Minas Gerais,Uberlândia
+2012-10-18 00:00:00,Brazil,SP,São Paulo,Jundiaí
+2012-10-18 00:00:00,Brazil,SP,São Paulo,Osasco
+2012-10-18 00:00:00,Brazil,SP,São Paulo,Jundiaí
+2012-10-09 00:00:00,Brazil,PE,Pernambuco,Caruaru
+2012-08-17 00:00:00,Brazil,SP,São Paulo,Ribeirão Preto
+2012-08-03 00:00:00,Brazil,SC,Santa Catarina,Blumenau
+2012-08-03 00:00:00,Brazil,SP,São Paulo,Ribeirão Preto
+2012-07-13 00:00:00,Brazil,BA,Bahia,Salvador
+2012-06-20 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2012-06-04 00:00:00,Brazil,SP,São Paulo,São José dos Campos
+2012-05-31 00:00:00,Brazil,SC,Santa Catarina,São José
+2012-05-30 00:00:00,Brazil,PA,Pará,Belém
+2012-05-23 00:00:00,Brazil,MG,Minas Gerais,Belo Horizonte
+2012-04-26 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+2012-04-26 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+2012-03-28 00:00:00,Brazil,MG,Minas Gerais,Uberlândia
+2012-03-26 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+2012-02-23 00:00:00,Brazil,RS,Rio Grande do Sul,Novo Hamburgo
+2011-12-20 00:00:00,Brazil,ES,Espírito Santo,Vitória
+2011-12-20 00:00:00,Brazil,SP,São Paulo,Limeira
+2011-12-20 00:00:00,Brazil,MA,Maranhão,São Luís
+2011-12-16 00:00:00,Brazil,PR,Paraná,Foz do Iguaçu
+2011-12-15 00:00:00,Brazil,SP,São Paulo,Jacareí
+2011-12-14 00:00:00,Brazil,SP,São Paulo,Diadema
+2011-12-13 00:00:00,Brazil,ES,Espírito Santo,Serra
+2011-12-13 00:00:00,Brazil,BA,Bahia,Vitória da Conquista
+2011-12-07 00:00:00,Brazil,MG,Minas Gerais,Montes Claros
+2011-12-06 00:00:00,Brazil,PE,Pernambuco,Recife
+2011-12-01 00:00:00,Brazil,PR,Paraná,Ponta Grossa
+2011-11-30 00:00:00,Brazil,SP,São Paulo,Barueri
+2011-11-29 00:00:00,Brazil,SP,São Paulo,São Paulo
+2011-11-10 00:00:00,Brazil,SP,São Paulo,São Caetano do Sul
+2011-11-09 00:00:00,Brazil,SP,São Paulo,São Caetano do Sul
+2011-11-09 00:00:00,Brazil,SP,São Paulo,São Paulo
+2011-11-08 00:00:00,Brazil,AC,Acre,Rio Branco
+2011-11-04 00:00:00,Brazil,SP,São Paulo,Marília
+2011-10-19 00:00:00,Brazil,RS,Rio Grande do Sul,Erechim
+2011-10-13 00:00:00,Brazil,RN,Rio Grande do Norte,Natal
+2011-10-05 00:00:00,Brazil,SC,Santa Catarina,Chapecó
+2011-10-04 00:00:00,Brazil,MG,Minas Gerais,Uberaba
+2011-09-16 00:00:00,Brazil,BA,Bahia,Feira de Santana
+2011-06-29 00:00:00,Brazil,SP,São Paulo,Ribeirão Preto
+2011-06-17 00:00:00,Brazil,RJ,Rio de Janeiro,Resende
+2011-06-16 00:00:00,Brazil,DF,Distrito Federal,Brasília
+2011-05-31 00:00:00,Brazil,RJ,Rio de Janeiro,Campos dos Goytacazes
+2011-05-31 00:00:00,Brazil,SE,Sergipe,Aracaju
+2011-05-28 00:00:00,Brazil,SC,Santa Catarina,Blumenau
+2011-05-25 00:00:00,Brazil,MS,Mato Grosso do Sul,Campo Grande
+2011-04-28 00:00:00,Brazil,SP,São Paulo,Barueri
+2011-04-28 00:00:00,Brazil,SP,São Paulo,Indaiatuba
+2011-04-28 00:00:00,Brazil,SP,São Paulo,Barueri
+2010-12-15 00:00:00,Brazil,SP,São Paulo,Franca
+2010-12-09 00:00:00,Brazil,RS,Rio Grande do Sul,Santa Maria
+2010-12-09 00:00:00,Brazil,RJ,Rio de Janeiro,São Gonçalo
+2010-12-03 00:00:00,Brazil,BA,Bahia,Salvador
+2010-11-24 00:00:00,Brazil,SP,São Paulo,Cotia
+2010-11-09 00:00:00,Brazil,RS,Rio Grande do Sul,Caxias do Sul
+2010-11-09 00:00:00,Brazil,BA,Bahia,Salvador
+2010-11-05 00:00:00,Brazil,MG,Minas Gerais,Belo Horizonte
+2010-10-26 00:00:00,Brazil,MG,Minas Gerais,Belo Horizonte
+2010-08-17 00:00:00,Brazil,TO,Tocantins,Palmas
+2010-06-30 00:00:00,Brazil,SP,São Paulo,São Paulo
+2010-06-01 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2010-05-05 00:00:00,Brazil,SP,São Paulo,São Paulo
+2010-04-24 00:00:00,Brazil,SC,Santa Catarina,Joinville
+2010-03-31 00:00:00,Brazil,AL,Alagoas,Maceió
+2009-11-26 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+2009-11-25 00:00:00,Brazil,SP,São Paulo,São Paulo
+2009-11-17 00:00:00,Brazil,PA,Pará,Belém
+2009-10-28 00:00:00,Brazil,DF,Distrito Federal,Brasília
+2009-10-17 00:00:00,Brazil,GO,Goiás,Goiânia
+2009-10-08 00:00:00,Brazil,SP,São Paulo,Osasco
+2009-10-01 00:00:00,Brazil,SP,São Paulo,Suzano
+2009-09-17 00:00:00,Brazil,RS,Rio Grande do Sul,Passo Fundo
+2009-06-25 00:00:00,Brazil,DF,Distrito Federal,Brasília
+2009-06-06 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2009-04-30 00:00:00,Brazil,SP,São Paulo,Bauru
+2009-04-30 00:00:00,Brazil,GO,Goiás,Goiânia
+2009-04-25 00:00:00,Brazil,RN,Rio Grande do Norte,Natal
+2009-04-07 00:00:00,Brazil,AM,Amazonas,Manaus
+2008-11-25 00:00:00,Brazil,ES,Espírito Santo,Vila Velha
+2008-11-20 00:00:00,Brazil,GO,Goiás,Anápolis
+2008-11-18 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+2008-11-18 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+2008-11-12 00:00:00,Brazil,PR,Paraná,Londrina
+2008-11-11 00:00:00,Brazil,RJ,Rio de Janeiro,Duque de Caxias
+2008-10-30 00:00:00,Brazil,RO,Rondônia,Porto Velho
+2008-10-29 00:00:00,Brazil,SP,São Paulo,Campinas
+2008-10-09 00:00:00,Brazil,GO,Goiás,Aparecida de Goiânia
+2008-09-26 00:00:00,Brazil,PR,Paraná,São José dos Pinhais
+2008-08-27 00:00:00,Brazil,SP,São Paulo,Taubaté
+2008-05-09 00:00:00,Brazil,PR,Paraná,Curitiba
+2008-05-06 00:00:00,Brazil,RJ,Rio de Janeiro,São João de Meriti
+2008-04-24 00:00:00,Brazil,PR,Paraná,Maringá
+2008-04-23 00:00:00,Brazil,SP,São Paulo,Taboão da Serra
+2008-04-22 00:00:00,Brazil,MG,Minas Gerais,Juiz de Fora
+2008-03-28 00:00:00,Brazil,SP,São Paulo,São Paulo
+2007-12-15 00:00:00,Brazil,SP,São Paulo,São Paulo
+2007-12-12 00:00:00,Brazil,PB,Paraíba,João Pessoa
+2007-12-12 00:00:00,Brazil,RS,Rio Grande do Sul,Caxias do Sul
+2007-11-30 00:00:00,Brazil,BA,Bahia,Salvador
+2007-11-28 00:00:00,Brazil,PR,Paraná,Cascavel
+2007-10-27 00:00:00,Brazil,SC,Santa Catarina,Balneário Camboriú
+2007-10-25 00:00:00,Brazil,SP,São Paulo,São Paulo
+2007-10-23 00:00:00,Brazil,DF,Distrito Federal,Brasília
+2007-09-27 00:00:00,Brazil,MG,Minas Gerais,Belo Horizonte
+2007-07-07 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+2007-05-22 00:00:00,Brazil,BA,Bahia,Salvador
+2007-05-10 00:00:00,Brazil,SE,Sergipe,Aracaju
+2007-05-03 00:00:00,Brazil,AM,Amazonas,Manaus
+2007-04-27 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2007-04-24 00:00:00,Brazil,SP,São Paulo,Piracicaba
+2007-04-17 00:00:00,Brazil,SC,Santa Catarina,Florianópolis
+2006-12-18 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2006-12-07 00:00:00,Brazil,GO,Goiás,Goiânia
+2006-12-06 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2006-12-05 00:00:00,Brazil,SP,São Paulo,São Paulo
+2006-11-24 00:00:00,Brazil,BA,Bahia,Salvador
+2006-11-09 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2006-10-26 00:00:00,Brazil,SC,Santa Catarina,Tubarão
+2006-09-28 00:00:00,Brazil,PE,Pernambuco,Recife
+2006-09-26 00:00:00,Brazil,SP,São Paulo,São Paulo
+2006-09-14 00:00:00,Brazil,RS,Rio Grande do Sul,Cachoeirinha
+2006-05-29 00:00:00,Brazil,CE,Ceará,Fortaleza
+2006-05-12 00:00:00,Brazil,SP,São Paulo,Jundiaí
+2006-05-09 00:00:00,Brazil,CE,Ceará,Fortaleza
+2006-05-05 00:00:00,Brazil,PR,Paraná,Curitiba
+2006-04-13 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+2006-03-29 00:00:00,Brazil,PE,Pernambuco,Recife
+2006-03-29 00:00:00,Brazil,PE,Pernambuco,Jaboatão dos Guararapes
+2006-03-25 00:00:00,Brazil,PR,Paraná,Curitiba
+2005-11-03 00:00:00,Brazil,RS,Rio Grande do Sul,São Leopoldo
+2005-10-27 00:00:00,Brazil,SP,São Paulo,Osasco
+2005-04-28 00:00:00,Brazil,PR,Paraná,Londrina
+2005-04-20 00:00:00,Brazil,MS,Mato Grosso do Sul,Campo Grande
+2005-04-09 00:00:00,Brazil,SP,São Paulo,São Paulo
+2004-11-30 00:00:00,Brazil,MT,Mato Grosso,Cuiabá
+2004-11-20 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2004-10-16 00:00:00,Brazil,SP,São Paulo,São Paulo
+2004-09-02 00:00:00,Brazil,SP,São Paulo,Campinas
+2004-06-03 00:00:00,Brazil,MG,Minas Gerais,Belo Horizonte
+2004-03-18 00:00:00,Brazil,MG,Minas Gerais,Contagem
+2003-11-13 00:00:00,Brazil,PR,Paraná,Curitiba
+2003-11-13 00:00:00,Brazil,PR,Paraná,Curitiba
+2003-11-06 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2003-06-28 00:00:00,Brazil,ES,Espírito Santo,Vitória
+2003-05-08 00:00:00,Brazil,SP,São Paulo,São Paulo
+2003-04-12 00:00:00,Brazil,SP,São Paulo,Campinas
+2001-11-30 00:00:00,Brazil,SP,São Paulo,São José do Rio Preto
+2001-09-27 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+2001-05-08 00:00:00,Brazil,DF,Distrito Federal,Brasília
+2001-05-03 00:00:00,Brazil,MG,Minas Gerais,Belo Horizonte
+2001-03-29 00:00:00,Brazil,SC,Santa Catarina,São José
+2000-11-16 00:00:00,Brazil,DF,Distrito Federal,Brasília
+2000-10-27 00:00:00,Brazil,MG,Minas Gerais,Uberlândia
+2000-09-28 00:00:00,Brazil,SP,São Paulo,São Paulo
+2000-09-14 00:00:00,Brazil,SP,São Paulo,Campinas
+2000-07-12 00:00:00,Brazil,SP,São Paulo,São Paulo
+2000-05-11 00:00:00,Brazil,SP,São Paulo,São Paulo
+2000-05-10 00:00:00,Brazil,SP,São Paulo,São Paulo
+2000-05-04 00:00:00,Brazil,PR,Paraná,Curitiba
+2000-04-28 00:00:00,Brazil,SP,São Paulo,Santos
+2000-04-27 00:00:00,Brazil,SP,São Paulo,Santo André
+2000-04-25 00:00:00,Brazil,GO,Goiás,Goiânia
+2000-04-18 00:00:00,Brazil,SP,São Paulo,São Paulo
+2000-04-11 00:00:00,Brazil,SP,São Paulo,Campinas
+2000-04-06 00:00:00,Brazil,SP,São Paulo,São Paulo
+2000-03-30 00:00:00,Brazil,SP,São Paulo,São Paulo
+2000-03-16 00:00:00,Brazil,SP,São Paulo,São Paulo
+2000-03-09 00:00:00,Brazil,SP,São Paulo,São Paulo
+1999-12-15 00:00:00,Brazil,SP,São Paulo,Santos
+1999-12-07 00:00:00,Brazil,RJ,Rio de Janeiro,Volta Redonda
+1999-12-03 00:00:00,Brazil,DF,Distrito Federal,Brasília
+1999-11-30 00:00:00,Brazil,RJ,Rio de Janeiro,Niterói
+1999-11-26 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+1999-11-25 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+1999-11-22 00:00:00,Brazil,MG,Minas Gerais,Belo Horizonte
+1999-11-10 00:00:00,Brazil,SP,São Paulo,São Paulo
+1999-11-05 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+1999-11-04 00:00:00,Brazil,SP,São Paulo,São Paulo
+1999-10-14 00:00:00,Brazil,SP,São Paulo,São Paulo
+1999-10-14 00:00:00,Brazil,RJ,Rio de Janeiro,Rio de Janeiro
+1999-09-30 00:00:00,Brazil,SP,São Paulo,São Paulo
+1999-05-05 00:00:00,Brazil,SP,São Paulo,Ribeirão Preto
+1999-04-29 00:00:00,Brazil,SP,São Paulo,São José dos Campos
+1999-03-31 00:00:00,Brazil,SP,São Paulo,Guarulhos
+1999-02-19 00:00:00,Brazil,SP,São Paulo,São Paulo
+1998-11-12 00:00:00,Brazil,SP,São Paulo,Guarulhos
+1998-10-20 00:00:00,Brazil,PR,Paraná,Curitiba
+1998-09-24 00:00:00,Brazil,SP,São Paulo,São Paulo
+1998-05-05 00:00:00,Brazil,SP,São Paulo,Sorocaba
+1998-04-29 00:00:00,Brazil,RS,Rio Grande do Sul,Canoas
+1998-03-19 00:00:00,Brazil,SP,São Paulo,São Paulo
+1997-05-06 00:00:00,Brazil,SC,Santa Catarina,Blumenau
+1997-04-29 00:00:00,Brazil,SP,São Paulo,São Paulo
+1997-04-01 00:00:00,Brazil,SP,São Paulo,São Bernardo do Campo
+1996-11-19 00:00:00,Brazil,RS,Rio Grande do Sul,Caxias do Sul
+1996-09-25 00:00:00,Brazil,PR,Paraná,Curitiba
+1996-04-17 00:00:00,Brazil,SP,São Paulo,São Paulo
+1995-09-29 00:00:00,Brazil,SC,Santa Catarina,Joinville
+1994-11-17 00:00:00,Brazil,SC,Santa Catarina,Florianópolis
+1993-05-04 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+1991-10-23 00:00:00,Brazil,RS,Rio Grande do Sul,Novo Hamburgo
+1987-06-12 00:00:00,Brazil,SP,São Paulo,São Paulo
+1987-02-17 00:00:00,Brazil,SP,São Paulo,São Paulo
+1985-09-07 00:00:00,Brazil,RS,Rio Grande do Sul,Rio Grande
+1983-04-13 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+1980-09-01 00:00:00,Brazil,RS,Rio Grande do Sul,Santa Maria
+1977-11-01 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+1976-04-10 00:00:00,Brazil,RS,Rio Grande do Sul,Canoas
+1970-12-04 00:00:00,Brazil,RS,Rio Grande do Sul,Porto Alegre
+1967-06-01 00:00:00,Brazil,RS,Rio Grande do Sul,Pelotas
+,,,,
+,,,,
+,,,,
+Renner,Youcom,Total,,
+409,118,651,,
+33,13,55,,
+10,6,20,,
+11,4,17,,
+7,2,11,,
+5,1,7,,
+22,3,32,,
+1,1,2,,
+1,0,1,,
+6,1,9,,
+9,0,12,,
+2,1,4,,
+2,0,2,,
+1,0,2,,
+58,11,88,,
+4,1,7,,
+14,1,21,,
+11,2,15,,
+6,1,8,,
+3,1,6,,
+10,2,15,,
+4,1,6,,
+4,1,6,,
+2,1,4,,
+99,31,154,,
+23,8,37,,
+55,10,75,,
+21,13,42,,
+197,60,322,,
+9,2,15,,
+29,8,45,,
+41,4,57,,
+118,46,205,,
+10,0,10,,
+4,0,4,,
+423,118,665,,
