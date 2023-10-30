@@ -416,6 +416,8 @@ Aliado a outras ferramentas para obtenção e manipulação de dados, o Folium s
 
 [Perfil no GitHub](https://github.com/Moscarde/)
 
+[Postagem Medium](https://moscarde.medium.com/folium-criando-mapas-interativos-com-dados-reais-de-forma-simples-c20ab89b5c79)
+
 Se você leu até esse ponto, muito obrigado. Esta é minha primeira publicação, Fique à vontade para me seguir nas outras redes sociais e, se possível me conte o que achou do conteúdo. =)
 
 Um agradecimento especial ao [Henrique W. Franco](https://medium.com/u/1f3cc85024dc?source=post_page-----c20ab89b5c79--------------------------------)
