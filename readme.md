@@ -303,7 +303,7 @@ df_renner['Address'] = df_renner.apply(lambda row: f"{row['City']} - {row['State
 df_renner.head(5)
 ```
 
-<center><img src='screenshots/df_renner-tratado-fix.jpg'></center>
+<center><img src='screenshots/08-df_renner-tratado-fix.jpg'></center>
 
 Com os dados do endereço agora podemos fazer uma requisição ao `geocode` para obter as coordenadas do local e salvar em uma nova coluna.
 
